@@ -964,7 +964,7 @@ body{
 
 /* ====================== 450 ================= */
 
-@media (max-width:420px){
+@media (max-width:450px){
     body {
         width:100%;
         overflow-x:hidden;
